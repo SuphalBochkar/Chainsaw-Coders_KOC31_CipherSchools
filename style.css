@@ -23,6 +23,26 @@
     background: var(--main-color);
 }
 
+body {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+section {
+    padding: 70px 17%;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 999;
+    padding: 30px 170px;
+    background:rgb(247, 202, 201) ;
+    /* background:rgb(103,120,162) ; */
+}
 /* header */
 a.logo {
     font-size: 2.4rem;

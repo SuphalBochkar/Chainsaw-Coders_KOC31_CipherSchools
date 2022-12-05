@@ -3,7 +3,7 @@
 >  Scoop House (Ice Cream Website)
 
 " Scoop House " is an website of an Ice Cream Parlour where there are list of varities of Ice-cream 
-<h2> Contribution type by Contributers<h2> 
+<h3> Contribution type by Contributers<h3> 
 
 **Sujal Bochkar** - Assets, Design, Colors, Asthetics, HTML
 
